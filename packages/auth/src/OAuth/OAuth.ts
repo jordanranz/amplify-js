@@ -27,8 +27,14 @@ import {
   Hub
 } from '@aws-amplify/core';
 
-const SHA256 = require("crypto-js/sha256");
-const Base64 = require("crypto-js/enc-base64");
+import sha256 from 'crypto-js/sha256';
+import Base64 from 'crypto-js/enc-base64';
+
+// const SHA256 = require("crypto-js/sha256");
+// const Base64 = require("crypto-js/enc-base64");
+
+// const { Sha256 as browserSha256 } from '@aws-crypto/sha256-browser';
+
 
 const AMPLIFY_SYMBOL = ((typeof Symbol !== 'undefined' && typeof Symbol.for === 'function') ?
     Symbol.for('amplify_default') : '@@amplify_default') as Symbol;
@@ -261,7 +267,8 @@ export default class OAuth {
   }
 
   private _generateChallenge(code:string) {
-    return this._base64URL(SHA256(code));
+    // return this._base64URL(SHA256(code));
+    return this._base64URL(sha256(code));
   }
 
   private _base64URL(string) {
