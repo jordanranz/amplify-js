@@ -1,6 +1,4 @@
 const core_externals = [
-    'aws-sdk',
-    'aws-sdk/global',
     'react-native',
     'url'
 ];
@@ -9,9 +7,7 @@ const analytics_externals = [
     "@aws-amplify/cache",
     "@aws-amplify/core",
     "uuid",
-    'aws-sdk/clients/pinpoint',
     'react-native',
-    'aws-sdk/clients/kinesis'
 ];
 
 const api_externals = [
@@ -39,17 +35,19 @@ const cache_externals = [
 
 const storage_externals = [
     '@aws-amplify/core',
-    'aws-sdk/clients/s3'
 ];
 
 const interactions_externals = [
-    'aws-sdk/clients/lexruntime',
     '@aws-amplify/core',
     'handlebars',
 ];
 
 const xr_externals = [
     '@aws-amplify/core',
+];
+
+const predictions_externals = [
+    "@aws-amplify/core",
 ];
 
 const pubsub_externals = [
@@ -97,6 +95,7 @@ const rollup_externals = {
     "@aws-amplify/cache": cache_externals,
     "@aws-amplify/core": core_externals,
     "@aws-amplify/interactions": interactions_externals,
+    "@aws-amplify/predictions": predictions_externals,
     "@aws-amplify/pubsub": pubsub_externals,
     "@aws-amplify/storage": storage_externals,
     "@aws-amplify/xr": xr_externals

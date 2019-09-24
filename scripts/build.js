@@ -58,6 +58,7 @@ async function buildRollUp() {
 function tsc(fileNames, options) {
     let program = ts.createProgram(fileNames, options);
     let emitResult = program.emit();
+    console.log(emitResult);
     let exitCode = emitResult.emitSkipped ? 1 : 0;
     console.log(`Process exiting with code '${exitCode}'.`);
     process.exit(exitCode);
@@ -130,7 +131,8 @@ function buildES6() {
         ],
         // temporary fix
         "types": ["node"],
-        "outDir": `${currentPath}${tscES6OutDir}`
+        "outDir": `${currentPath}${tscES6OutDir}`,
+        "extendedDiagnostics": true
     }
     
     compilerOptions = ts.convertCompilerOptionsFromJson(compilerOptions);
