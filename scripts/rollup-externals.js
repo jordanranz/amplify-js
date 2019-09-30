@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const core_externals = [
     'react-native',
     'url'
@@ -8,31 +9,41 @@ const analytics_externals = [
     "@aws-amplify/core",
     "uuid",
     'react-native',
+=======
+const core_externals = ['aws-sdk', 'aws-sdk/global', 'react-native', 'url'];
+
+const analytics_externals = [
+	'@aws-amplify/cache',
+	'@aws-amplify/core',
+	'uuid',
+	'aws-sdk/clients/pinpoint',
+	'react-native',
+	'aws-sdk/clients/kinesis',
+>>>>>>> modularization-AWS_SDK_V3
 ];
 
 const api_externals = [
-    'axios',
-    'graphql',
-    'graphql/language/ast',
-    'graphql/language/parser',
-    'graphql/language/printer',
-    'uuid',
-    'zen-observable',
-    '@aws-amplify/cache',
-    '@aws-amplify/core'
+	'axios',
+	'graphql',
+	'graphql/language/ast',
+	'graphql/language/parser',
+	'graphql/language/printer',
+	'uuid',
+	'zen-observable',
+	'@aws-amplify/cache',
+	'@aws-amplify/core',
 ];
 
 const auth_externals = [
-    '@aws-amplify/cache',
-    '@aws-amplify/core',
-    'amazon-cognito-auth-js',
-    'amazon-cognito-identity-js',
+	'@aws-amplify/cache',
+	'@aws-amplify/core',
+	'amazon-cognito-auth-js',
+	'amazon-cognito-identity-js',
 ];
 
-const cache_externals = [
-    '@aws-amplify/core',
-];
+const cache_externals = ['@aws-amplify/core'];
 
+<<<<<<< HEAD
 const storage_externals = [
     '@aws-amplify/core',
 ];
@@ -40,65 +51,70 @@ const storage_externals = [
 const interactions_externals = [
     '@aws-amplify/core',
     'handlebars',
+=======
+const storage_externals = ['@aws-amplify/core', 'aws-sdk/clients/s3'];
+
+const interactions_externals = [
+	'aws-sdk/clients/lexruntime',
+	'@aws-amplify/core',
+	'handlebars',
+>>>>>>> modularization-AWS_SDK_V3
 ];
 
-const xr_externals = [
-    '@aws-amplify/core',
-];
+const xr_externals = ['@aws-amplify/core'];
 
 const predictions_externals = [
     "@aws-amplify/core",
 ];
 
 const pubsub_externals = [
-    "@aws-amplify/core",
-    "@types/zen-observable",
-    "uuid",
-    "zen-observable",
-    "paho-mqtt"
+	'@aws-amplify/core',
+	'@types/zen-observable',
+	'uuid',
+	'zen-observable',
+	'paho-mqtt',
 ];
 
 const amplify_externals = [
-    "@aws-amplify/analytics",
-    "@aws-amplify/api",
-    "@aws-amplify/auth",
-    "@aws-amplify/cache",
-    "@aws-amplify/core",
-    "@aws-amplify/interactions",
-    "@aws-amplify/pubsub",
-    "@aws-amplify/storage",
-    "@aws-amplify/ui",
-    "@aws-amplify/xr"
+	'@aws-amplify/analytics',
+	'@aws-amplify/api',
+	'@aws-amplify/auth',
+	'@aws-amplify/cache',
+	'@aws-amplify/core',
+	'@aws-amplify/interactions',
+	'@aws-amplify/pubsub',
+	'@aws-amplify/storage',
+	'@aws-amplify/ui',
+	'@aws-amplify/xr',
 ];
 
 const aws_amplify_react = [
-    '@aws-amplify/auth',
-    '@aws-amplify/analytics',
-    '@aws-amplify/api',
-    '@aws-amplify/core',
-    '@aws-amplify/interactions',
-    '@aws-amplify/storage',
-    '@aws-amplify/ui',
-    '@aws-amplify/ui/dist/style.css',
-    '@aws-amplify/xr',
-    'react',
-    'regenerator-runtime/runtime',
-    'qrcode.react'
-]
+	'@aws-amplify/auth',
+	'@aws-amplify/analytics',
+	'@aws-amplify/api',
+	'@aws-amplify/core',
+	'@aws-amplify/interactions',
+	'@aws-amplify/storage',
+	'@aws-amplify/ui',
+	'@aws-amplify/ui/dist/style.css',
+	'@aws-amplify/xr',
+	'react',
+	'regenerator-runtime/runtime',
+	'qrcode.react',
+];
 
 const rollup_externals = {
-    "@aws-amplify/analytics": analytics_externals,
-    "@aws-amplify/api": api_externals,
-    "@aws-amplify/auth": auth_externals,
-    "aws-amplify": amplify_externals,
-    "aws-amplify-react": aws_amplify_react,
-    "@aws-amplify/cache": cache_externals,
-    "@aws-amplify/core": core_externals,
-    "@aws-amplify/interactions": interactions_externals,
-    "@aws-amplify/predictions": predictions_externals,
-    "@aws-amplify/pubsub": pubsub_externals,
-    "@aws-amplify/storage": storage_externals,
-    "@aws-amplify/xr": xr_externals
+	'@aws-amplify/analytics': analytics_externals,
+	'@aws-amplify/api': api_externals,
+	'@aws-amplify/auth': auth_externals,
+	'aws-amplify': amplify_externals,
+	'aws-amplify-react': aws_amplify_react,
+	'@aws-amplify/cache': cache_externals,
+	'@aws-amplify/core': core_externals,
+	'@aws-amplify/interactions': interactions_externals,
+	'@aws-amplify/pubsub': pubsub_externals,
+	'@aws-amplify/storage': storage_externals,
+	'@aws-amplify/xr': xr_externals,
 };
 
 module.exports = rollup_externals;
