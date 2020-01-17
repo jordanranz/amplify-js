@@ -2,7 +2,6 @@
 
 <!-- Auto Generated Below -->
 
-
 ## Dependencies
 
 ### Depends on
@@ -13,10 +12,407 @@
 - [rock-paper-scissor](rock-paper-scissor)
 - [rock-paper-scissor](rock-paper-scissor)
 - [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-authenticator](../amplify-authenticator)
+- [amplify-select-mfa-type](../amplify-select-mfa-type)
+- [rock-paper-scissor](rock-paper-scissor)
+- [rock-paper-scissor](rock-paper-scissor)
+- [amplify-scene](../amplify-scene)
 
 ### Graph
+
 ```mermaid
 graph TD;
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-authenticator
+  amplify-examples --> amplify-select-mfa-type
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> rock-paper-scissor
+  amplify-examples --> amplify-scene
   amplify-examples --> amplify-authenticator
   amplify-examples --> amplify-authenticator
   amplify-examples --> amplify-select-mfa-type
@@ -37,6 +433,7 @@ graph TD;
   amplify-sign-in --> amplify-federated-buttons
   amplify-sign-in --> amplify-strike
   amplify-sign-in --> amplify-auth-fields
+  amplify-sign-in --> amplify-button
   amplify-form-section --> amplify-button
   amplify-form-section --> amplify-section
   amplify-federated-buttons --> amplify-google-button
@@ -50,6 +447,204 @@ graph TD;
   amplify-amazon-button --> amplify-sign-in-button
   amplify-oauth-button --> amplify-sign-in-button
   amplify-auth0-button --> amplify-sign-in-button
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
+  amplify-auth-fields --> amplify-username-field
+  amplify-auth-fields --> amplify-password-field
+  amplify-auth-fields --> amplify-email-field
+  amplify-auth-fields --> amplify-code-field
+  amplify-auth-fields --> amplify-phone-field
+  amplify-auth-fields --> amplify-form-field
   amplify-auth-fields --> amplify-username-field
   amplify-auth-fields --> amplify-password-field
   amplify-auth-fields --> amplify-email-field
@@ -72,6 +667,30 @@ graph TD;
   amplify-confirm-sign-in --> amplify-auth-fields
   amplify-sign-up --> amplify-form-section
   amplify-sign-up --> amplify-auth-fields
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
+  amplify-sign-up --> amplify-link
+  amplify-sign-up --> amplify-button
   amplify-sign-up --> amplify-link
   amplify-sign-up --> amplify-button
   amplify-confirm-sign-up --> amplify-link
@@ -104,6 +723,6 @@ graph TD;
   style amplify-examples fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
-----------------------------------------------
+---
 
-*Built with [StencilJS](https://stenciljs.com/)*
+_Built with [StencilJS](https://stenciljs.com/)_
