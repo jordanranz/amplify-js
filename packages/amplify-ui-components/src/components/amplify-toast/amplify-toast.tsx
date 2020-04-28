@@ -1,4 +1,4 @@
-import { Component, Prop, h } from '@stencil/core';
+import { Component, Prop, h, Host } from '@stencil/core';
 
 @Component({
   tag: 'amplify-toast',
@@ -18,12 +18,12 @@ export class AmplifyToast {
 
   render() {
     return (
-      <div class="toast">
+      <Host class="toast">
         <amplify-icon class="toast-icon" name="warning" />
         {this.message ? <span>{this.message}</span> : null}
         <slot />
         <button class="toast-close" onClick={this.handleClose} />
-      </div>
+      </Host>
     );
   }
 }

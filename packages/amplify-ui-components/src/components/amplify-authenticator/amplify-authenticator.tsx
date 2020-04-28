@@ -186,16 +186,20 @@ export class AmplifyAuthenticator {
   render() {
     return (
       <Host>
-        {this.toastMessage ? (
-          <amplify-toast
-            message={this.toastMessage}
-            handleClose={() => {
-              this.toastMessage = '';
-            }}
-            data-test="authenticator-error"
-          />
-        ) : null}
-        {this.renderAuthComponent(this.authState)}
+        <div class="authenticator-wrapper">
+          {this.toastMessage ? (
+            <slot name="error">
+              <amplify-toast
+                message={this.toastMessage}
+                handleClose={() => {
+                  this.toastMessage = '';
+                }}
+                data-test="authenticator-error"
+              />
+            </slot>
+          ) : null}
+          {this.renderAuthComponent(this.authState)}
+        </div>
       </Host>
     );
   }
