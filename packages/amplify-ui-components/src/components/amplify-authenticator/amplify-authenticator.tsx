@@ -11,6 +11,7 @@ import {
 } from '../../common/constants';
 import { Auth, appendToCognitoUserAgent } from '@aws-amplify/auth';
 import { Hub, Logger } from '@aws-amplify/core';
+import { onUserSignedIn } from '../../common/helpers';
 
 const logger = new Logger('Authenticator');
 
@@ -93,8 +94,17 @@ export class AmplifyAuthenticator {
     }
   }
 
-  private onAuthStateChange = (nextAuthState: AuthState, data?: CognitoUserInterface) => {
+  private onAuthStateChange = async (nextAuthState: AuthState, data?: CognitoUserInterface) => {
     if (nextAuthState === undefined) return logger.info('nextAuthState cannot be undefined');
+
+    if (nextAuthState === AuthState.SignedIn && data !== undefined) {
+      const authedUser = await Auth.currentAuthenticatedUser();
+      if (authedUser === data) {
+        // onUserSignedIn(authedUser);
+      }
+      console.log('currentUser', authedUser);
+      console.log('user', data);
+    }
 
     logger.info('Inside onAuthStateChange Method current authState:', this.authState);
     if (nextAuthState === AuthState.SignedOut) {

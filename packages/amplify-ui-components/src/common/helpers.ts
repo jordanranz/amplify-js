@@ -5,7 +5,7 @@ import {
   AUTH_STATE_CHANGE_EVENT,
   PHONE_EMPTY_ERROR_MESSAGE,
 } from './constants';
-import { AuthState, AuthStateHandler, UsernameAlias } from '../common/types/auth-types';
+import { AuthState, AuthStateHandler, UsernameAlias, UserSignedInHandler } from '../common/types/auth-types';
 import { PhoneNumberInterface } from '../components/amplify-auth-fields/amplify-auth-fields-interface';
 
 interface ToastError {
@@ -62,4 +62,9 @@ export const onAuthUIStateChange = (authStateHandler: AuthStateHandler) => {
   }
   Hub.listen(UI_AUTH_CHANNEL, authUIStateHandler);
   return () => Hub.remove(UI_AUTH_CHANNEL, authUIStateHandler);
+}
+
+export const onUserSignedIn = (userSignedInHandler: UserSignedInHandler) => {
+  userSignedInHandler;
+  return;
 }

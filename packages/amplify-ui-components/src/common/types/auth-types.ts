@@ -74,7 +74,10 @@ export interface CognitoUserInterface {
   [attributes: string]: any;
 }
 
+type User = CognitoUserInterface | object;
+
 export type AuthStateHandler = (nextAuthState: AuthState, data?: object) => void;
+export type UserSignedInHandler = (user: User) => User;
 
 export enum MfaOption {
   TOTP = 'TOTP',
