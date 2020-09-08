@@ -3,7 +3,24 @@
 exports[`amplify-verify-contact stories withNoProps 1`] = `
 <amplify-verify-contact>
   <mock:shadow-root>
-    <amplify-form-section headertext="Account recovery requires verified contact information" submitbuttontext="Verify"></amplify-form-section>
+    <amplify-form-section headertext="Account recovery requires verified contact information">
+      <slot name="footer">
+        <slot name="secondary-footer-content">
+          <span>
+            <amplify-button variant="anchor">
+              Skip
+            </amplify-button>
+          </span>
+        </slot>
+        <slot name="primary-footer-content">
+          <amplify-button data-test="sign-in-sign-in-button" type="submit">
+            <span>
+              Verify
+            </span>
+          </amplify-button>
+        </slot>
+      </slot>
+    </amplify-form-section>
   </mock:shadow-root>
 </amplify-verify-contact>
 `;
@@ -11,11 +28,27 @@ exports[`amplify-verify-contact stories withNoProps 1`] = `
 exports[`amplify-verify-contact stories withUnverifiedUser 1`] = `
 <amplify-verify-contact>
   <mock:shadow-root>
-    <amplify-form-section headertext="Account recovery requires verified contact information" submitbuttontext="Verify">
+    <amplify-form-section headertext="Account recovery requires verified contact information">
       <div>
         <amplify-radio-button label="Email" name="contact" value="email"></amplify-radio-button>
         <amplify-radio-button label="Phone Number" name="contact" value="phone_number"></amplify-radio-button>
       </div>
+      <slot name="footer">
+        <slot name="secondary-footer-content">
+          <span>
+            <amplify-button variant="anchor">
+              Skip
+            </amplify-button>
+          </span>
+        </slot>
+        <slot name="primary-footer-content">
+          <amplify-button data-test="sign-in-sign-in-button" type="submit">
+            <span>
+              Verify
+            </span>
+          </amplify-button>
+        </slot>
+      </slot>
     </amplify-form-section>
   </mock:shadow-root>
 </amplify-verify-contact>
