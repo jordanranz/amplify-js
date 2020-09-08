@@ -153,20 +153,33 @@ export class AmplifyVerifyContact {
         handleSubmit={event => this.handleSubmit(event)}
         headerText={I18n.get(Translations.VERIFY_CONTACT_HEADER_TEXT)}
         loading={this.loading}
-        secondaryFooterContent={
-          <span>
-            <amplify-button variant="anchor" onClick={() => this.handleAuthStateChange(AuthState.SignedIn, this.user)}>
-              Skip
-            </amplify-button>
-          </span>
-        }
-        submitButtonText={
-          this.verifyAttr
-            ? I18n.get(Translations.VERIFY_CONTACT_SUBMIT_LABEL)
-            : I18n.get(Translations.VERIFY_CONTACT_VERIFY_LABEL)
-        }
       >
         {this.verifyAttr ? this.renderSubmit() : this.renderVerify()}
+        <slot name="footer">
+          <slot name="secondary-footer-content">
+            <span>
+              <amplify-button
+                variant="anchor"
+                onClick={() => this.handleAuthStateChange(AuthState.SignedIn, this.user)}
+              >
+                {I18n.get(Translations.VERIFY_CONTACT_SKIP)}
+              </amplify-button>
+            </span>
+          </slot>
+          <slot name="primary-footer-content">
+            <amplify-button type="submit" disabled={this.loading} data-test="sign-in-sign-in-button">
+              {this.loading ? (
+                <amplify-loading-spinner />
+              ) : (
+                <span>
+                  {this.verifyAttr
+                    ? I18n.get(Translations.VERIFY_CONTACT_SUBMIT_LABEL)
+                    : I18n.get(Translations.VERIFY_CONTACT_VERIFY_LABEL)}
+                </span>
+              )}
+            </amplify-button>
+          </slot>
+        </slot>
       </amplify-form-section>
     );
   }

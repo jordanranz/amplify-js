@@ -107,6 +107,7 @@ export enum AuthStrings {
   TEXT_FALLBACK_CONTENT = 'Fallback Content',
   CONFIRM_SIGN_UP_FAILED = 'Confirm Sign Up Failed',
   SIGN_UP_FAILED = 'Sign Up Failed',
+  VERIFY_CONTACT_SKIP = 'Skip',
 }
 
 export enum InteractionsStrings {
